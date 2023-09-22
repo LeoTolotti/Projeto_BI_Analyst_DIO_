@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "650cd14ded8f148f1aea321f"
+  },
+  "Ssn": "333445555",
+  "Dependent_name": "Alice",
+  "Sex": "F",
+  "Bdate": {
+    "$date": "1986-04-05T00:00:00.000Z"
+  },
+  "Relationship": "Daughter"
+},
+{
+  "_id": {
+    "$oid": "650cd14ded8f148f1aea3220"
+  },
+  "Ssn": "333445555",
+  "Dependent_name": "Theodore",
+  "Sex": "M",
+  "Bdate": {
+    "$date": "1983-10-25T00:00:00.000Z"
+  },
+  "Relationship": "Son"
+},
+{
+  "_id": {
+    "$oid": "650cd14ded8f148f1aea3221"
+  },
+  "Ssn": "333445555",
+  "Dependent_name": "Joy",
+  "Sex": "F",
+  "Bdate": {
+    "$date": {
+      "$numberLong": "-368150400000"
+    }
+  },
+  "Relationship": "Spouse"
+},
+{
+  "_id": {
+    "$oid": "650cd14ded8f148f1aea3222"
+  },
+  "Ssn": "987654321",
+  "Dependent_name": "Abner",
+  "Sex": "M",
+  "Bdate": {
+    "$date": {
+      "$numberLong": "-878601600000"
+    }
+  },
+  "Relationship": "Spouse"
+},
+{
+  "_id": {
+    "$oid": "650cd14ded8f148f1aea3223"
+  },
+  "Ssn": "123456789",
+  "Dependent_name": "Michael",
+  "Sex": "M",
+  "Bdate": {
+    "$date": "1988-01-04T00:00:00.000Z"
+  },
+  "Relationship": "Son"
+},
+{
+  "_id": {
+    "$oid": "650cd14ded8f148f1aea3224"
+  },
+  "Ssn": "123456789",
+  "Dependent_name": "Alice",
+  "Sex": "F",
+  "Bdate": {
+    "$date": "1988-12-30T00:00:00.000Z"
+  },
+  "Relationship": "Daughter"
+},
+{
+  "_id": {
+    "$oid": "650cd14ded8f148f1aea3225"
+  },
+  "Ssn": "123456789",
+  "Dependent_name": "Elizabeth",
+  "Sex": "F",
+  "Bdate": {
+    "$date": {
+      "$numberLong": "-83980800000"
+    }
+  },
+  "Relationship": "Spouse"
+}]

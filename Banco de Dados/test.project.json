@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "650cd1feaabcb80f7957b2a8"
+  },
+  "Pname": "ProductX",
+  "Pnumber": 1,
+  "Plocation": "Bellaire",
+  "Dnum": 5
+},
+{
+  "_id": {
+    "$oid": "650cd1feaabcb80f7957b2a9"
+  },
+  "Pname": "ProductY",
+  "Pnumber": 2,
+  "Plocation": "Sugarland",
+  "Dnum": 5
+},
+{
+  "_id": {
+    "$oid": "650cd1feaabcb80f7957b2aa"
+  },
+  "Pname": "ProductZ",
+  "Pnumber": 3,
+  "Plocation": "Houston",
+  "Dnum": 5
+},
+{
+  "_id": {
+    "$oid": "650cd1feaabcb80f7957b2ab"
+  },
+  "Pname": "Computerization",
+  "Pnumber": 10,
+  "Plocation": "Stafford",
+  "Dnum": 4
+},
+{
+  "_id": {
+    "$oid": "650cd1feaabcb80f7957b2ac"
+  },
+  "Pname": "Reorganization",
+  "Pnumber": 20,
+  "Plocation": "Houston",
+  "Dnum": 1
+},
+{
+  "_id": {
+    "$oid": "650cd1feaabcb80f7957b2ad"
+  },
+  "Pname": "Newbenefits",
+  "Pnumber": 30,
+  "Plocation": "Stafford",
+  "Dnum": 4
+}]

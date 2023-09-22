@@ -1,21 +1,13 @@
-# BI Analyst DIO
+## Desafio DIO Modulo 3
 
-Projeto desenvolvido na aula de Analyst na plataforma DIO.
-
-Dados usados, são somente demostrativos.
-
-Pagina 01 do Projeto.
-
-<img src="./Pagina01.png">
-
-Pagina 02 do Projeto.
-<img src="/Pagina02.png">
-
-## Uso
-
-Projeto disponivel no arquivo:
-
-- projeto_BI_DIO.pbix
+1. Comecei criando um banco de dados no mongoDB, e cadastrei os dados passados no exercicio.
+2. Fiz a ligação do mongoDB ATLAS com o PowerBi.
+3. Carreguei os dados.
+4. Modifiquei tabelas.
+   - Nomes das tabelas
+   - Tipos de dados
+5. Mesclei as tabelas mencionadas no desafio.
+6. Os dados modificados, estão no no arquivo "Dados_Transformados"
 
 ## Autores
 

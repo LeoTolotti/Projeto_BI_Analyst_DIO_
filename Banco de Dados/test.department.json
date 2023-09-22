@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "650cd1a3de2c11ed4ae21a2c"
+  },
+  "Dname": "Research",
+  "Dnumber": 5,
+  "Mgr_ssn": "333445555",
+  "Mgr_start_date": {
+    "$date": "1988-05-22T00:00:00.000Z"
+  },
+  "Mgr_end_date": {
+    "$date": "1986-05-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cd1a3de2c11ed4ae21a2d"
+  },
+  "Dname": "Administration",
+  "Dnumber": 4,
+  "Mgr_ssn": "987654321",
+  "Mgr_start_date": {
+    "$date": "1995-01-01T00:00:00.000Z"
+  },
+  "Mgr_end_date": {
+    "$date": "1994-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "650cd1a3de2c11ed4ae21a2e"
+  },
+  "Dname": "Headquarters",
+  "Dnumber": 1,
+  "Mgr_ssn": "888665555",
+  "Mgr_start_date": {
+    "$date": "1981-06-19T00:00:00.000Z"
+  },
+  "Mgr_end_date": {
+    "$date": "1980-06-19T00:00:00.000Z"
+  }
+}]
